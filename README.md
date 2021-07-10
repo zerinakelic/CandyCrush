@@ -2,7 +2,7 @@
 
 Basic version of the match-three puzzle game, Candy Crush Saga by King. Implemented in Java.
 
-##Preview:
+Preview:
 
 https://user-images.githubusercontent.com/51749925/125165359-dcc25780-e196-11eb-8ec1-03a15cf3d5fc.png
 https://user-images.githubusercontent.com/51749925/125165361-de8c1b00-e196-11eb-883d-62fcbd919478.png
